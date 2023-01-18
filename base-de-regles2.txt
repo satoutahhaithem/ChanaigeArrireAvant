@@ -1,0 +1,9 @@
+R1 : SI B et D et E ALORS F
+R2 : SI G et D ALORS A
+R3 : SI C et F ALORS A
+R4 : SI B ALORS X
+R5 : SI D ALORS E
+R6 : SI X et A ALORS H
+R7 : SI C ALORS D
+R8 : SI X et C ALORS A
+R9 : SI X et B ALORS D
